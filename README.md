@@ -3,7 +3,7 @@
 Starter code for: <https://ucsb-cs56.github.io/w20/lab/lab04/>
 
 Denver Simmons
-5540778
+GithubID: denversimmons
 
 repo: https://github.com/ucsb-cs56-w20/denversimmons-lab04
 
